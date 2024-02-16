@@ -214,6 +214,8 @@
 * [Overleaf](https://www.overleaf.com/)：支持多人协作的**在线** LaTeX 编辑器。但是对网络连接有一定要求。
 
 ### 语言表达
+#### 模型命名
+* [acronymify](http://acronymify.com/): 给自己的model起一个酷炫的缩写。
 
 #### 搭配查找
 
@@ -260,6 +262,7 @@
 * [Snappy](http://snappy-app.com/)：【待尝试】有 Mac 和 iPhone & iPad 版，暂时没有 Windows 版。
 
 ### 表格转 LaTeX
+* [tablesgenerator](https://www.tablesgenerator.com/): 在线编辑 latex 表格。
 
 * [Excel2LaTeX](https://ctan.org/tex-archive/support/excel2latex)：用在 Excel 上的宏工具，能够将 Excel 表格转换为 LaTeX 代码，节省很多时间。能够满足大多数效果的转换，有些效果可能需要微调。
 
