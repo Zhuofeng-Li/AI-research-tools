@@ -66,7 +66,7 @@
 ### RSS 阅读器
 
 * [irreader 阅读器](http://irreader.fatecore.com/)：这是我现在在使用的 RSS 阅读器。一个非常大的优点是，对于一些没有提供 RSS 订阅源的网站，irreader 可以自定义 RSS 订阅源。另外，订阅的 RSS 更新时，有弹窗提醒。还有一个我暂时用不到的功能是，irreader 同时支持订阅播客和播放有声媒体。
-
+* [Ahead of AI](https://magazine.sebastianraschka.com/)
 ## 论文查找
 
 ### 搜索引擎
@@ -345,6 +345,8 @@
 * [pigar](https://github.com/Damnever/pigar)：Python 项目 requirements 文件自动生成工具。
 
 ## 其他
+### 个人网站
++ [表情网站](https://emojifinder.com): 检索各种表情符号。
 
 ### 专利检索
 
