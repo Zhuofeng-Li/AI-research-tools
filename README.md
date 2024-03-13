@@ -104,7 +104,9 @@
 ### 查阅下载
 
 * [SCI-Hub 科研论文全文下载可用网址](http://tool.yovisun.com/scihub/)
-
+* Google Scholar。
+* Semantic scholar：它可以自动计算这个文章的重要性、贡献，并且，对于一个文章来说，可以智能查找引用。
+* AMINER：可以通过社交网络和数据挖掘统计出你想搜索的话题下面的专家和文章，对于进行以主题为目标的搜索非常有用！
 ### 文献管理
 
 * [Mendeley](https://www.mendeley.com)：支持 web、PC、Mac 和移动手机等多个平台，可以直接注释和高亮显示 PDF，有限额的免费云存储。另外有每周邮件推荐论文。
